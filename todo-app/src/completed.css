@@ -1,0 +1,12 @@
+
+.c-main{
+    background: #918686;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center ;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    
+}

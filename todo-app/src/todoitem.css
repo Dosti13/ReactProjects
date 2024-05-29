@@ -1,0 +1,27 @@
+.list{
+    display: flex;
+    align-items: center;
+}
+.btn{
+    margin-left:  auto;
+   
+}
+.btn button{
+    background: #918686;
+    padding: 5px 10px;
+}
+.list{
+    font-size: 20px;
+    font-weight: 200;
+    margin: 5px 0 5px 0;}
+hr{
+    font-size: small ;
+    border: thin solid rgb(214, 211, 205);
+    font-weight: lighter;
+}
+.listt{
+    text-decoration: line-through;
+}
+.line{
+    text-decoration: none;
+}
